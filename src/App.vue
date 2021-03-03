@@ -11,6 +11,12 @@ export default {
   name: "App",
   components: {
     Navbar
+  },
+  //data is similar to react state
+  data() {
+    return {
+      letters: ["A", "B", "C"]
+    };
   }
 };
 </script>
