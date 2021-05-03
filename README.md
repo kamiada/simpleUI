@@ -29,7 +29,7 @@ Inspiration: this [Dribbble design] (https://dribbble.com/shots/15057737-Greece-
 What type of website this little project suppose to be: 
 New website for the Natural History Museum London. Their current website looks like this: 
 
-![screenshot] (src/assets/MNH.png)
+![screenshot](/src/assets/MNH.png)
 
 ## Credits for the images: 
 Photo by <a href="https://unsplash.com/@claudiotesta?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Claudio Testa</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
