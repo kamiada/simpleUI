@@ -31,6 +31,10 @@ New website for the Natural History Museum London. Their current website looks l
 
 ![screenshot](/src/assets/MNH.png)
 
+I want to add the end have the main page changed to something looking roughly like this concept design which I have done in Figma: 
+
+![concept](/src/assets/New_home_page_for_Natural_History_Museum_in_LondonNHM_home_page.png)
+
 ## Credits for the images: 
 Photo by <a href="https://unsplash.com/@claudiotesta?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Claudio Testa</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
