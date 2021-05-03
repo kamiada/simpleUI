@@ -1,6 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lobster+Two:wght@700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import "src/_variables.scss";
+
+
 body {
     background: #ee0979;
     /* fallback for old browsers */
@@ -46,4 +49,8 @@ button:hover {
         display: inline;
         width: 100%;
     }
+}
+
+.holder {
+    background: $SoftWhite;
 }
