@@ -29,16 +29,14 @@ Inspiration: this [Dribbble design] (https://dribbble.com/shots/15057737-Greece-
 What type of website this little project suppose to be: 
 New website for the Natural History Museum London. Their current website looks like this: 
 
-![screenshot] (/Users/adriannak/Desktop/simpleUI/src/assets/MNH.png)
+![screenshot] (src/assets/MNH.png)
 
 ## Credits for the images: 
 Photo by <a href="https://unsplash.com/@claudiotesta?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Claudio Testa</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
-[Photo by Claudio Testa on Unsplash] (https://unsplash.com/photos/9MXn0woVdhE)
-
-[Photo by Kevin Mueller on Unsplash] (https://unsplash.com/photos/1gUES9J7Ph8)
-
-[Photo by Patxi Olaeta on Unsplash] (https://unsplash.com/photos/3bpKvzknix0)
-
-[Photo by Joshua Rawson-Harris on Unsplash] (https://unsplash.com/photos/WLXkaubn0Ig)
-
+Photo by <a href="https://unsplash.com/@kevinmueller?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kevin Mueller</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+Photo by <a href="https://unsplash.com/@patxiolaeta?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Patxi Olaeta</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+Photo by <a href="https://unsplash.com/@joshrh19?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Joshua Rawson-Harris</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
