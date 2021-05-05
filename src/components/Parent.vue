@@ -4,7 +4,7 @@
     </div>
 </template>
 <script>
-import ".style/scss";
+import "./style.scss";
 export default {
     name: "Parent"
 }
